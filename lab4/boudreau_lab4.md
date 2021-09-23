@@ -37,7 +37,7 @@ These response have all been confirmed as function via the server.
 
 And finally here is the completed server code
 
-```
+```python
 #import socket module
 from socket import *
 import sys # In order to terminate the program
