@@ -12,10 +12,13 @@ Through  the first part of this lab, a simple webserver is to be created so that
 The given messages for this task were a "Hello World" when giving the HelloWorld.html file in the client response. Or a 404 Error message if the given file was incorrect.
 
 Here is the completed response.
-<img src="Hello.png" alt="Hello" width="650"/>
+
+<img src="Hello.png" alt="Hello" width="450"/>
 
 After that we have the 404 Error message response on failure. The failure state was the missspelled file.
-<img src="Error.png" alt="Error" width="650"/>
+<img src="Error.png" alt="Error" width="450"/>
+
+<div style="page-break-after: always;"></div>
 
 ## Task 2: Add extra responses to the server
 
@@ -30,12 +33,16 @@ Now that the server is running. The task was to add several more message options
 
 These response have all been confirmed as function via the server.
 
-<img src="R1.png" alt="R1" width="650"/>
-<img src="R2.png" alt="R2" width="650"/>
-<img src="R3.png" alt="R3" width="650"/>
-<img src="R4.png" alt="R4" width="650"/>
+<img src="R1.png" alt="R1" width="450"/>
+<img src="R2.png" alt="R2" width="450"/>
+<img src="R3.png" alt="R3" width="450"/>
+<img src="R4.png" alt="R4" width="450"/>
 
-And finally here is the completed server code
+<div style="page-break-after: always;"></div>
+
+### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+
+Footnote 1: Server Code
 
 ```python
 #import socket module
